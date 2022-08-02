@@ -21,7 +21,7 @@
 
 ## Proses Development Program Golang
 
-![](.gitbook/assets/go.drawio.png)
+![](<.gitbook/assets/go.drawio (1).png>)
 
 Golang itu adalah bahasa pemrograman yang di compile berbeda dengan PHP atau Javascript yang tidak di compile.
 
