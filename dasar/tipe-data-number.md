@@ -31,8 +31,8 @@ Secara garis besar tipe data number pada bahasa Go ada dua jenis, yaitu :
 
 | Tipe Data | Nilai Minimum | Nilai Maksimum |
 | --------- | ------------- | -------------- |
-| float32   | 1.18×10^−38   | 3.4×10^38      |
-| float64   | 2.23×10^−308  | 1.80×10^308    |
+| float32   | 1.18×10−38    | 3.4×1038       |
+| float64   | 2.23×10−308   | 1.80×10308     |
 
 ### Complex
 
