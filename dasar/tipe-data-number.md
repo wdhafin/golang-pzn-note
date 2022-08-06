@@ -1,6 +1,6 @@
 # Tipe Data Number
 
-Secara garis besar tipe data number pada bahasa Go ada dua jenis, yaitu :&#x20;
+Secara garis besar tipe data number pada bahasa Go ada dua jenis, yaitu :
 
 * Integer
 * Floating Point
@@ -31,8 +31,8 @@ Secara garis besar tipe data number pada bahasa Go ada dua jenis, yaitu :&#x20;
 
 | Tipe Data | Nilai Minimum | Nilai Maksimum |
 | --------- | ------------- | -------------- |
-| float32   | 1.18×10<sup>−38</sup>   | 3.4×10<sup>38</sup>       |
-| float64   | 2.23×10<sup>−308</sup>  | 1.80×10<sup>308</sup>     |
+| float32   | 1.18×10−38    | 3.4×1038       |
+| float64   | 2.23×10−308   | 1.80×10308     |
 
 ### Complex
 
@@ -49,3 +49,19 @@ Secara garis besar tipe data number pada bahasa Go ada dua jenis, yaitu :&#x20;
 | rune      | int32          |
 | int       | minimal int32  |
 | uint      | minimal uint32 |
+
+## Kode Program Number
+
+{% code title="number.go" lineNumbers="true" %}
+```go
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Println("Satu =", 1)
+	fmt.Println("Dua =", 2)
+	fmt.Println("Tiga Koma Lima =", 3.5)
+}
+```
+{% endcode %}
