@@ -4,7 +4,7 @@ Membuat program Hello World di Golang memang tidak se simple ketika kita membuat
 
 ## Program Hello World
 
-{% code title="hellowro" lineNumbers="true" %}
+{% code title="helloworld.go" lineNumbers="true" %}
 ```go
 package main
 
